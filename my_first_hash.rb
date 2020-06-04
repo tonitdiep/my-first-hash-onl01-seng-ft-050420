@@ -3,8 +3,6 @@ def my_hash
  client = {"name" => "Maria", "age" => 30, "birthplace" => "Nevada"}
 end
 
-  
-end
 
 
 def shipping_manifest
